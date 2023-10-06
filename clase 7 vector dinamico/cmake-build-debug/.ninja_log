@@ -1,0 +1,9 @@
+# ninja log v5
+26	90	1695163761725252864	clase_7_vector_dinamico	4b818d98694aa2d5
+1	28	1695163819062591350	build.ninja	f818f8eb4b82aa0e
+2	26	1695163761662252492	CMakeFiles/clase_7_vector_dinamico.dir/vector.cpp.o	b147d7bc22685d78
+0	256	1695163482932607021	CMakeFiles/clase_7_vector_dinamico.dir/main.cpp.o	2aa9ccf9375fee4
+0	16	1695163819062591350	build.ninja	f818f8eb4b82aa0e
+1	17	1695163819083591474	CMakeFiles/clase_7_vector_dinamico.dir/vector.cpp.o	49da7f10a94666dc
+0	221	1695163819287592679	CMakeFiles/clase_7_vector_dinamico.dir/main.cpp.o	f2dd44afd8f13c10
+221	275	1695163819340592991	clase_7_vector_dinamico	ae5b65411ac66876

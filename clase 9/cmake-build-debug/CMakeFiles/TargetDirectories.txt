@@ -1,0 +1,3 @@
+/home/ceni/Documentos/GitHub/AYP2/clase 9/cmake-build-debug/CMakeFiles/clase_9.dir
+/home/ceni/Documentos/GitHub/AYP2/clase 9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ceni/Documentos/GitHub/AYP2/clase 9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

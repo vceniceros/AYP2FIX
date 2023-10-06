@@ -1,0 +1,39 @@
+# ninja log v5
+1	274	1695940973212562927	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+274	326	1695940973263563245	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+0	287	1695940851933806589	CMakeFiles/inventario.dir/src/Menu.cpp.o	baff3859bbe3f82b
+1	311	1695779042557890495	CMakeFiles/inventario.dir/src/Vector.cpp.o	db473d9ecca892da
+1	267	1695779042513890316	CMakeFiles/inventario.dir/src/Item.cpp.o	3ce6bee86228ca05
+0	279	1695940851925806539	CMakeFiles/inventario.dir/main.cpp.o	6a76a9f253f823f5
+0	271	1695940975755578786	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+271	321	1695940975804579092	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+1	271	1695941025253887474	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+271	320	1695941025301887774	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+0	334	1695941143982627908	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+334	392	1695941144039628264	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+1	310	1695941195254947659	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+310	369	1695941195312948021	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+1	279	1695941287034520029	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+279	330	1695941287084520341	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+0	310	1695941523970980445	CMakeFiles/inventario.dir/main.cpp.o	6a76a9f253f823f5
+0	340	1695941524000980626	CMakeFiles/inventario.dir/src/Menu.cpp.o	baff3859bbe3f82b
+0	344	1695941524004980650	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+344	523	1695941524179981704	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+0	289	1695941613739521008	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+289	340	1695941613789521309	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+1	308	1695941829720821605	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+308	361	1695941829771821912	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+1	381	1696002986848490848	CMakeFiles/inventario.dir/src/Menu.cpp.o	baff3859bbe3f82b
+381	463	1696002986929491231	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+1	297	1696003379632205905	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+2	302	1696003379638205931	CMakeFiles/inventario.dir/src/Menu.cpp.o	baff3859bbe3f82b
+302	368	1696003379702206207	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+1	273	1696003965966262386	CMakeFiles/inventario.dir/main.cpp.o	6a76a9f253f823f5
+1	291	1696003965985262517	CMakeFiles/inventario.dir/src/Menu.cpp.o	baff3859bbe3f82b
+1	308	1696003966002262634	CMakeFiles/inventario.dir/src/Inventario.cpp.o	a3dceace5ed52e35
+308	373	1696003966066263073	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+1	255	1696004135960492732	CMakeFiles/inventario.dir/src/Menu.cpp.o	baff3859bbe3f82b
+255	303	1696004136008493111	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819
+1	308	1696090607971469645	CMakeFiles/inventario.dir/main.cpp.o	6a76a9f253f823f5
+0	315	1696090607978469680	CMakeFiles/inventario.dir/src/Menu.cpp.o	baff3859bbe3f82b
+315	373	1696090608035469963	/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/inventario.exe	3c1abadc5b6c3819

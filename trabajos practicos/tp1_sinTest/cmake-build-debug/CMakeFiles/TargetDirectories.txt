@@ -1,0 +1,3 @@
+/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/cmake-build-debug/CMakeFiles/inventario.dir
+/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

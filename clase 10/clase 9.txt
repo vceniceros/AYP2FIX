@@ -1,0 +1,30 @@
+Listas:
+son lineales (donde hay un dato primario hay uno sucesor y asi)
+operaciones basicas de las listas:
+1.Alta
+2.Baja
+3.Consulta
+4.Modificar
+Pilas:
+(pa que: para tener bien moduralizado y mas rigido el orden lineal de los elementos
+ejemplo: cuando usas la opcion de ir para atras en un navegador donde
+vas de una primera pagina a una segunda,
+de la segunda a la tercera y para volver a la primera paso de vuelta por la segunda)
+1.Alta al final
+2.Baja al final
+3.Consulta
+Tda pila:
+private:
+    cantidadDeElementos
+    elementos
+public:
+    alta(elemento)
+    baja()
+    consulta():elem
+
+colas:
+alta al final
+
+baja al principio
+
+consulta al principio

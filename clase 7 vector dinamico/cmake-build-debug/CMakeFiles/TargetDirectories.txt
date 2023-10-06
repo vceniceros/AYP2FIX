@@ -1,0 +1,3 @@
+/home/ceni/Documentos/GitHub/AYP2/clase 7 vector dinamico/cmake-build-debug/CMakeFiles/clase_7_vector_dinamico.dir
+/home/ceni/Documentos/GitHub/AYP2/clase 7 vector dinamico/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ceni/Documentos/GitHub/AYP2/clase 7 vector dinamico/cmake-build-debug/CMakeFiles/rebuild_cache.dir

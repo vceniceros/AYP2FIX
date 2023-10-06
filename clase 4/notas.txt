@@ -1,0 +1,22 @@
+ver todos los contactos
+eliminar
+agregar
+buscar por numero
+
+
+contacto:
+nombre
+numero
+
+casos borde:
+no hay contacto
+no se logra encontrar el contacto a eliminar
+no se encuentra el buscado
+ya existe el telefono
+
+si no se encuentra el contacto se crea
+usar memoria dinamica
+
+crear struct contactos
+struc agenda
+dato
