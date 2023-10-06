@@ -10,6 +10,10 @@ class Pila{
 private:
     int ultimo;
     Dato elementos[MAX];
+    //redimencionar
+    //PRE:
+    //POST: agranda la pila
+    void redimencionar();
 public:
     //constructor
     //PRE:

@@ -7,6 +7,10 @@ Pila::Pila() {
     ultimo = 0;
 }
 
+void Pila::redimencionar() {
+
+}
+
 bool Pila::vacia() {
     return (ultimo == 0);
 }
