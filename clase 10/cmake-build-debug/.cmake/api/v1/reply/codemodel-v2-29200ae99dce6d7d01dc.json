@@ -6,10 +6,10 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.24"
+						"string" : "3.22"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "clase_9",
+					"name" : "clase_10",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "clase_9::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-clase_9-Debug-ee62d4d2ad19f992192a.json",
-					"name" : "clase_9",
+					"id" : "clase_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clase_10-Debug-53a3fac0a7db0ed4f760.json",
+					"name" : "clase_10",
 					"projectIndex" : 0
 				}
 			]
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/valen/OneDrive/Documents/GitHub/new AYP2/clase 9/cmake-build-debug",
-		"source" : "C:/Users/valen/OneDrive/Documents/GitHub/new AYP2/clase 9"
+		"build" : "/home/ceni/Documentos/GitHub/AYP2FIX/clase 10/cmake-build-debug",
+		"source" : "/home/ceni/Documentos/GitHub/AYP2FIX/clase 10"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 4
 	}
 }

@@ -21,11 +21,6 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeUnixFindMake.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -539,21 +534,6 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeFindCodeBlocks.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/ProcessorCount.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -748,8 +728,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/ceni/Documentos/GitHub/AYP2FIX/clase 10/cmake-build-debug",
-		"source" : "/home/ceni/Documentos/GitHub/AYP2FIX/clase 10"
+		"build" : "/home/ceni/Documentos/GitHub/AYP2FIX/clase 11/cmake-build-debug",
+		"source" : "/home/ceni/Documentos/GitHub/AYP2FIX/clase 11"
 	},
 	"version" : 
 	{

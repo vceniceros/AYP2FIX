@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "clase_9.exe"
-		},
-		{
-			"path" : "clase_9.pdb"
+			"path" : "clase_9"
 		}
 	],
 	"backtrace" : 1,
@@ -89,16 +86,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "clase_9",
-	"nameOnDisk" : "clase_9.exe",
+	"nameOnDisk" : "clase_9",
 	"paths" : 
 	{
 		"build" : ".",
