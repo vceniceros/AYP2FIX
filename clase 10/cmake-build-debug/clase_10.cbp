@@ -82,7 +82,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/ceni/Documentos/GitHub/AYP2FIX/clase 10/include/nodo.h">
+			<Option target="clase_10"/>
+		</Unit>
 		<Unit filename="/home/ceni/Documentos/GitHub/AYP2FIX/clase 10/main.cpp">
+			<Option target="clase_10"/>
+		</Unit>
+		<Unit filename="/home/ceni/Documentos/GitHub/AYP2FIX/clase 10/src/nodo.cpp">
 			<Option target="clase_10"/>
 		</Unit>
 		<Unit filename="/home/ceni/Documentos/GitHub/AYP2FIX/clase 10/src/pila.cpp">

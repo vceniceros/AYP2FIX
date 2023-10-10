@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Werror -Wconversion -g CMakeFiles/inventario.dir/src/Inventario.cpp.o CMakeFiles/inventario.dir/src/Item.cpp.o CMakeFiles/inventario.dir/src/Menu.cpp.o CMakeFiles/inventario.dir/main.cpp.o -o "/home/ceni/Documentos/GitHub/AYP2FIX/trabajos practicos/tp1_sinTest/inventario.exe" 

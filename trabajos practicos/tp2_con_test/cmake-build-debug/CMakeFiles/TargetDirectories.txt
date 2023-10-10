@@ -1,0 +1,3 @@
+/home/ceni/Documentos/GitHub/AYP2FIX/trabajos practicos/tp2_con_test/cmake-build-debug/CMakeFiles/ayp2_plantilla_tp2_2c2023.dir
+/home/ceni/Documentos/GitHub/AYP2FIX/trabajos practicos/tp2_con_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ceni/Documentos/GitHub/AYP2FIX/trabajos practicos/tp2_con_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

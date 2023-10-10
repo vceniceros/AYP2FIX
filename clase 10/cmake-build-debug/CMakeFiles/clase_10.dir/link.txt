@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/clase_10.dir/main.cpp.o CMakeFiles/clase_10.dir/src/pila.cpp.o -o clase_10 
+/usr/bin/c++ -g CMakeFiles/clase_10.dir/main.cpp.o CMakeFiles/clase_10.dir/src/pila.cpp.o CMakeFiles/clase_10.dir/src/nodo.cpp.o -o clase_10 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest
+# Install script for directory: /home/ceni/Documentos/GitHub/AYP2FIX/trabajos practicos/tp1_sinTest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ceni/Documentos/GitHub/AYP2/trabajos practicos/tp1_sinTest/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ceni/Documentos/GitHub/AYP2FIX/trabajos practicos/tp1_sinTest/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

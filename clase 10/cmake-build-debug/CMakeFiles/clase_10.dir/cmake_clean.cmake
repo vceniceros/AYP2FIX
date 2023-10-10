@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/clase_10.dir/main.cpp.o"
   "CMakeFiles/clase_10.dir/main.cpp.o.d"
+  "CMakeFiles/clase_10.dir/src/nodo.cpp.o"
+  "CMakeFiles/clase_10.dir/src/nodo.cpp.o.d"
   "CMakeFiles/clase_10.dir/src/pila.cpp.o"
   "CMakeFiles/clase_10.dir/src/pila.cpp.o.d"
   "clase_10"

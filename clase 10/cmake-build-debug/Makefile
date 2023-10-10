@@ -153,6 +153,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/clase_10.dir/build.make CMakeFiles/clase_10.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/nodo.o: src/nodo.cpp.o
+.PHONY : src/nodo.o
+
+# target to build an object file
+src/nodo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/clase_10.dir/build.make CMakeFiles/clase_10.dir/src/nodo.cpp.o
+.PHONY : src/nodo.cpp.o
+
+src/nodo.i: src/nodo.cpp.i
+.PHONY : src/nodo.i
+
+# target to preprocess a source file
+src/nodo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/clase_10.dir/build.make CMakeFiles/clase_10.dir/src/nodo.cpp.i
+.PHONY : src/nodo.cpp.i
+
+src/nodo.s: src/nodo.cpp.s
+.PHONY : src/nodo.s
+
+# target to generate assembly for a file
+src/nodo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/clase_10.dir/build.make CMakeFiles/clase_10.dir/src/nodo.cpp.s
+.PHONY : src/nodo.cpp.s
+
 src/pila.o: src/pila.cpp.o
 .PHONY : src/pila.o
 
@@ -189,6 +213,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/nodo.o"
+	@echo "... src/nodo.i"
+	@echo "... src/nodo.s"
 	@echo "... src/pila.o"
 	@echo "... src/pila.i"
 	@echo "... src/pila.s"

@@ -3,4 +3,4 @@ project(clase_10)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(clase_10 main.cpp src/pila.cpp)
+add_executable(clase_10 main.cpp src/pila.cpp src/nodo.cpp include/nodo.h)
