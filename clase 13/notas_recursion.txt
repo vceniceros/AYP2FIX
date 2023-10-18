@@ -1,0 +1,26 @@
+recursividad:
+llamara una funcion varias veces
+
+estructura:
+nombre_funcion{
+condicion de corte:
+    bloque de acciones:
+llamado a si misma:
+}
+clasificaciones:
+que el lugar donde esta llamado recursivo:
+*de cola
+* no de cola
+por el modo de invocaciones:
+*directa
+
+
+recursividad: arboles
+
+divide y venceraws: achicar problemas mediante dividirlos
+
+Mergensort:ordenamientos que toman de premisa divide y venceras,
+ dividis las lista de dos en dos hasta que se resuma en dos elementos y luegos se comparan los elementos
+ en grupos hasta llegar a una caja ordenada segun el criterio que se busca
+
+quicksort:
