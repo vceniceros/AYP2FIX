@@ -1,0 +1,3 @@
+C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/cmake-build-debug/CMakeFiles/tp2.dir
+C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
