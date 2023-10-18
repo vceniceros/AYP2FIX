@@ -84,6 +84,13 @@ build CMakeFiles/tp2.dir/src/Menu.cpp.obj: CXX_COMPILER__tp2_unscanned_Debug C$:
   OBJECT_DIR = CMakeFiles\tp2.dir
   OBJECT_FILE_DIR = CMakeFiles\tp2.dir\src
 
+build CMakeFiles/tp2.dir/src/Inventario.cpp.obj: CXX_COMPILER__tp2_unscanned_Debug C$:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos$ practicos/tp2_sinTest/src/Inventario.cpp || cmake_object_order_depends_target_tp2
+  DEP_FILE = CMakeFiles\tp2.dir\src\Inventario.cpp.obj.d
+  FLAGS = -Wall -Werror -Wconversion -g -fdiagnostics-color=always -Wall -Werror -Wconversion
+  INCLUDES = -I"C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/include" -I"C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/src"
+  OBJECT_DIR = CMakeFiles\tp2.dir
+  OBJECT_FILE_DIR = CMakeFiles\tp2.dir\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target tp2
@@ -92,7 +99,7 @@ build CMakeFiles/tp2.dir/src/Menu.cpp.obj: CXX_COMPILER__tp2_unscanned_Debug C$:
 #############################################
 # Link the executable C:\Users\valen\OneDrive\Documents\GitHub\AYP2FIX\trabajos practicos\tp2_sinTest\main.exe
 
-build C$:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos$ practicos/tp2_sinTest/main.exe: CXX_EXECUTABLE_LINKER__tp2_Debug CMakeFiles/tp2.dir/main.cpp.obj CMakeFiles/tp2.dir/src/evento.cpp.obj CMakeFiles/tp2.dir/src/Item.cpp.obj CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj CMakeFiles/tp2.dir/src/Menu.cpp.obj
+build C$:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos$ practicos/tp2_sinTest/main.exe: CXX_EXECUTABLE_LINKER__tp2_Debug CMakeFiles/tp2.dir/main.cpp.obj CMakeFiles/tp2.dir/src/evento.cpp.obj CMakeFiles/tp2.dir/src/Item.cpp.obj CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj CMakeFiles/tp2.dir/src/Menu.cpp.obj CMakeFiles/tp2.dir/src/Inventario.cpp.obj
   FLAGS = -Wall -Werror -Wconversion -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\tp2.dir

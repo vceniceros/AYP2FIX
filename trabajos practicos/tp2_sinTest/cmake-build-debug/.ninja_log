@@ -1,27 +1,19 @@
 # ninja log v5
 1	1382	7189327226039741	CMakeFiles/tp2.dir/src/evento.cpp.obj	85454312247bdd14
-169	1526	7189327227359717	CMakeFiles/tp2.dir/src/Item.cpp.obj	4fdf197a5bc5a900
-138	1596	7189327228170835	CMakeFiles/tp2.dir/main.cpp.obj	80433055bdb94ff6
-297	1665	7189327228890755	CMakeFiles/tp2.dir/src/Menu.cpp.obj	7aa36c8a94456d8b
-5	1266	7189327343016532	CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj	22a8f8f5e398d3c0
-1269	2013	7189327350306511	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	94bcff1e55de37f7
-9	1246	7189328028936693	CMakeFiles/tp2.dir/src/Menu.cpp.obj	7aa36c8a94456d8b
-1249	1957	7189328035834641	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	94bcff1e55de37f7
-6	1685	7189964239674283	CMakeFiles/tp2.dir/src/Menu.cpp.obj	7aa36c8a94456d8b
-1687	2690	7189964249445093	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	94bcff1e55de37f7
-6	1155	7189967106689607	CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj	22a8f8f5e398d3c0
-1157	1776	7189967112783477	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	94bcff1e55de37f7
-6	1186	7189971851312827	CMakeFiles/tp2.dir/main.cpp.obj	80433055bdb94ff6
-140	1246	7189971852268243	CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj	22a8f8f5e398d3c0
-156	1253	7189971852268243	CMakeFiles/tp2.dir/src/Menu.cpp.obj	7aa36c8a94456d8b
-1253	1913	7189971858753041	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	94bcff1e55de37f7
-8	1503	7189980778314895	CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj	22a8f8f5e398d3c0
-1504	2225	7189980785338407	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	94bcff1e55de37f7
-6	1266	7189982537436876	CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj	22a8f8f5e398d3c0
-1268	1989	7189982544507001	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	94bcff1e55de37f7
-6	1417	7189983329200405	CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj	22a8f8f5e398d3c0
-1419	2140	7189983336812198	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	94bcff1e55de37f7
 9	1557	7190224308766775	CMakeFiles/tp2.dir/main.cpp.obj	80433055bdb94ff6
-190	1618	7190224309548273	CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj	22a8f8f5e398d3c0
 218	1623	7190224309568280	CMakeFiles/tp2.dir/src/Menu.cpp.obj	7aa36c8a94456d8b
+169	1526	7189327227359717	CMakeFiles/tp2.dir/src/Item.cpp.obj	4fdf197a5bc5a900
+190	1618	7190224309548273	CMakeFiles/tp2.dir/src/cola_eventos.cpp.obj	22a8f8f5e398d3c0
 1624	2276	7190224315956130	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	94bcff1e55de37f7
+7	1749	7191901120421339	CMakeFiles/tp2.dir/main.cpp.obj	80433055bdb94ff6
+139	1802	7191901120972642	CMakeFiles/tp2.dir/src/Menu.cpp.obj	7aa36c8a94456d8b
+7	1565	7191901774438470	CMakeFiles/tp2.dir/main.cpp.obj	80433055bdb94ff6
+146	1589	7191901775808990	CMakeFiles/tp2.dir/src/Inventario.cpp.obj	f8fbb0c6cf6803e3
+133	1653	7191901777272715	CMakeFiles/tp2.dir/src/Menu.cpp.obj	7aa36c8a94456d8b
+1654	2539	7191901785881639	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	9a5f183188084894
+5	1201	7191902574893849	CMakeFiles/tp2.dir/src/Menu.cpp.obj	7aa36c8a94456d8b
+1202	1843	7191902581115872	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	9a5f183188084894
+5	1581	7191903603556706	CMakeFiles/tp2.dir/main.cpp.obj	80433055bdb94ff6
+125	1615	7191903604257959	CMakeFiles/tp2.dir/src/Menu.cpp.obj	7aa36c8a94456d8b
+136	1642	7191903604543147	CMakeFiles/tp2.dir/src/Inventario.cpp.obj	f8fbb0c6cf6803e3
+1643	2234	7191903610258899	C:/Users/valen/OneDrive/Documents/GitHub/AYP2FIX/trabajos practicos/tp2_sinTest/main.exe	9a5f183188084894

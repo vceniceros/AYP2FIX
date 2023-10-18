@@ -18,6 +18,7 @@ add_executable(tp2
         src/Item.cpp
         src/cola_eventos.cpp
         src/Menu.cpp
+        src/Inventario.cpp
         # Otros archivos .cpp, de la forma src/Ejemplo.cpp
 )
 

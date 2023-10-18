@@ -141,7 +141,7 @@ T Lista_de<T>::baja() {
         if(cantidad_datos == 1){
             primer_nodo = nullptr;
         }
-        if(indice_cursor == cantidad_datos){
+        if(static_cast<size_t>(indice_cursor) == cantidad_datos){
             reiniciar_cursor(true);
         }
 
